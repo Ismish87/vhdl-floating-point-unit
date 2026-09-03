@@ -11,10 +11,9 @@ Both designs were developed using modular VHDL components and Intel / Altera Qua
 
 ## Project Structure
 
-```text
 vhdl-floating-point-unit/
 ├── Adder/
-└── Multiplier/```
+└── Multiplier/
 ## Floating-Point Adder
 
 The adder design includes components for:

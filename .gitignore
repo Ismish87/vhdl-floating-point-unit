@@ -1,0 +1,27 @@
+# Quartus generated folders
+db/
+incremental_db/
+output_files/
+simulation/
+
+# Quartus generated / temporary files
+*.bak
+*.qws
+*.qdf
+*.rpt
+*.summary
+*.smsg
+*.sof
+*.pof
+*.jdi
+*.sld
+*.cdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary editor files
+*.tmp
+*.swp
+*~
